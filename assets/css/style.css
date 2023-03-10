@@ -18,6 +18,10 @@ body {
 
 /* Hero Section */
 
+.hero-section {
+    background-color: #c5d0b4;
+}
+
 .hero-display-container {
     margin: 0 auto;
     max-width: 130rem;
