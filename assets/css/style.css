@@ -20,6 +20,7 @@ body {
 
 .hero-section {
     background-color: #c5d0b4;
+    padding: 9.6rem;
 }
 
 .hero-display-container {
@@ -29,6 +30,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: container;
+    gap: 9.6rem;
 }
 
 /* Hero Image Box */
