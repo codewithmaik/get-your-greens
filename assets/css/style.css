@@ -29,7 +29,7 @@ body {
 
     display: grid;
     grid-template-columns: 1fr 1fr;
-    align-items: container;
+    align-items: center;
     gap: 9.6rem;
 }
 
