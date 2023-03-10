@@ -15,3 +15,22 @@ body {
     line-height: 1;
     font-weight: 400;
 }
+
+/* Hero Section */
+
+.hero-display-container {
+    margin: 0 auto;
+    max-width: 130rem;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: container;
+}
+
+.hero-image {
+    width: 50%;
+    border-radius: 5rem;
+}
+
+
+
