@@ -16,6 +16,12 @@ body {
     font-weight: 400;
 }
 
+/* Helper Classes */
+
+.margin-right {
+    margin-right: 1.6rem;
+}
+
 /* Hero Section */
 
 .hero-section {
