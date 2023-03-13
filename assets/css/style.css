@@ -50,6 +50,7 @@ body {
 
 .header-navigation-list-link:link,
 .header-navigation-list-link:visited {
+    display: inline-block;
     text-decoration: none;
     font-size: 1.8rem;
     font-weight: 500;
