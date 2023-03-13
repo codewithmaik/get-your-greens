@@ -18,10 +18,19 @@ body {
     font-weight: 400;
 }
 
-/* Helper Classes */
+/* Reusable Components */
 
 .margin-right {
     margin-right: 1.6rem;
+}
+
+/* Header */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #c5d0b4;
 }
 
 /* Hero Section */
