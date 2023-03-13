@@ -48,6 +48,20 @@ body {
     gap: 3.2rem;
 }
 
+.header-navigation-list-link:link,
+.header-navigation-list-link:visited {
+    text-decoration: none;
+    font-size: 1.8rem;
+    font-weight: 500;
+    color: black;
+    transition: all 0.25s;
+}
+
+.header-navigation-list-link:hover,
+.header-navigation-list-link:active {
+    color: #ffa500;
+}
+
 /* Hero Section */
 
 .hero-section {
@@ -74,7 +88,7 @@ body {
 }
 
 .hero-image {
-    width: 50%;
+    width: 100%;
     border-radius: 5rem;
 }
 
@@ -102,7 +116,7 @@ body {
     color: white;
     font-size: 2rem;
     text-decoration: none;
-    transition: all 1s;
+    transition: all 0.25s;
 }
 
 .button:hover,
