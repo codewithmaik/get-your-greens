@@ -31,13 +31,19 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #c5d0b4;
+
+    height: 16rem;
+}
+
+.header-logo {
+    height: 16rem;
 }
 
 /* Hero Section */
 
 .hero-section {
     background-color: #c5d0b4;
-    padding: 9.6rem 0;
+    padding: 0 0 9.6rem 0;
 }
 
 .hero-display-container {
