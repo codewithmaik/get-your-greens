@@ -40,6 +40,14 @@ body {
     height: 16rem;
 }
 
+/* Header Navigation */
+
+.header-navigation-list {
+    list-style: none;
+    display: flex;
+    gap: 3.2rem;
+}
+
 /* Hero Section */
 
 .hero-section {
